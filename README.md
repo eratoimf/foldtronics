@@ -47,5 +47,5 @@
 
 
 
-Copyright (c) 2018-2019 Junichi Yamaoka. All Rights Reserved.
+#Copyright (c) 2018-2019 Junichi Yamaoka. All Rights Reserved.
 
