@@ -1,14 +1,14 @@
 #You are going to need:
 
-The latest Rhino5 WIP
+* The latest Rhino5 WIP
 
-Grasshopper
+* Grasshopper
 
-Eagle
+* Eagle
 
-Illustrator
+* Illustrator
 
-Silhouette Studio
+* Silhouette Studio
 
 #Steps:
 
