@@ -1,9 +1,13 @@
 #You are going to need:
 
 The latest Rhino5 WIP
+
 Grasshopper
+
 Eagle
+
 Illustrator
+
 Silhouette Studio
 
 #Steps:
